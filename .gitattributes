@@ -1,2 +1,15 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Geugle</title>
+</head>
+<body>
+    <header>
+        Bienvenue sur Geugle
+    </header>
+<nav>
+    <a href="https://google.com">Google</a>
+    <a href="#index.html">Geugle</a>
+</nav>
+</body>
